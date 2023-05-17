@@ -56,12 +56,12 @@ let quizCount = 0;
                     setupQuiz();
                 }, 1000);
                 }else {
-                    answerResult.classList.add("active_result")
-                    answerResultText.textContent = '終了！あなたの正解数は' + score + '問/' + quizLength + '問です！'
+                    setTimeout (function(){
+                        answerResult.classList.add("active_result")
+                        answerResultText.textContent = '終了！あなたの正解数は' + score + '問/' + quizLength + '問です！'
+                        kyonWord.innerHTML = "おつかれさま！<br>またきてね！"
+                    }, 1000);
 
-                    kyonWord.innerHTML = "おつかれさま！<br>またきてね！"
-                    
-                
             }});            
             clickedCount++;
         }
