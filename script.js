@@ -65,3 +65,4 @@ let quizCount = 0;
             }});            
             clickedCount++;
         }
+
