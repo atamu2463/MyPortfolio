@@ -58,6 +58,7 @@
     width: 50px;
     height: 50px;
     background-color: blue;
+    content:"✖";
   }
    
   .quiz_box .answer_incorrect .cross::before {
@@ -65,7 +66,7 @@
     width: 50px;
     height: 5px;
     background-color: blue;
-    content: "";
+    content: "✖";
   }
    
   .quiz_box .answer_result {
