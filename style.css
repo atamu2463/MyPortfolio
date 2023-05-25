@@ -315,8 +315,8 @@
     }
      
     .quiz_box .answer_box {
-    display: block;
-    flex-wrap: wrap;
+    display: flex;
+    flex-flow: column;
     justify-content: space-between;
       margin: 0 auto;
       margin-top: 10px;
