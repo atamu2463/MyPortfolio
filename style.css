@@ -237,7 +237,7 @@
       position: absolute;
       top: 0px;
       left: 0px;
-      display: flex;
+      display:block;
       justify-content: center;
       align-items: center;
       width: 100%;
@@ -315,7 +315,7 @@
     }
      
     .quiz_box .answer_box {
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     justify-content: space-between;
       margin: 0 auto;
@@ -375,7 +375,7 @@
     }
   
     .charLineR {
-      right: 100px;
+      right: 200px;
       top: 50px;
     }
   
