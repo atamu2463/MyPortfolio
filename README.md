@@ -1,2 +1,2 @@
 タムラアサヒのポートフォリオサイト<br>
-https://asa-cording.github.io/MyPortfolio/01_myPortfolioSite/
+https://asa-cording.github.io/MyPortfolio/
