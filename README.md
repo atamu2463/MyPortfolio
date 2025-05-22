@@ -1,2 +1,2 @@
-タムラアサヒのポートフォリオサイト<br>
-https://atamu2463.github.io/MyPortfolio/
+大学時代に初めて作ったWebサイトです。  
+HTML, CSSのみで構成、レスポンシブ非対応。  
